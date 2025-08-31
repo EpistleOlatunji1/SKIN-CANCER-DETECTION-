@@ -2,6 +2,9 @@
 A comprehensive SQL-based analysis examining patient demographics, lifestyle factors, and lesion characteristics to identify key patterns associated with malignant skin lesions. This study provides data-driven insights to support early detection and improve clinical decision-making in dermatological care.
 Problem Statement
 
+![Skin cancer detection](https://github.com/user-attachments/assets/8c4547c0-6cf7-4035-90f9-cf98796f4b9a)
+
+
 Skin cancer detection faces significant delays due to diagnostic challenges and incomplete understanding of risk factors including patient demographics, lifestyle behaviors, and lesion characteristics. Early identification of high-risk patterns can improve treatment outcomes and survival rates through timely medical intervention.
 Project Objectives
 
